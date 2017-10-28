@@ -16,7 +16,7 @@ Each algorithm gets the same unsorted array of randomly generated 200 numbers ra
 
 Started:
 
-<img src="https://github.com/AlbertHambardzumyan/visualization-and-comparison-of-sorting-algorithms/blob/master/doc/started.png" height="225" width="202">
+<img src="https://github.com/AlbertHambardzumyan/visualization-and-comparison-of-sorting-algorithms/blob/master/doc/started.png" height="460" width="620">
 
 First 3 are done:
 
