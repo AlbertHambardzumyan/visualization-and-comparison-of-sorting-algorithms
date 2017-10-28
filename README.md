@@ -20,4 +20,4 @@ Started:
 
 First 3 are done:
 
-<img src="https://github.com/AlbertHambardzumyan/visualization-and-comparison-of-sorting-algorithms/blob/master/doc/first-free-done.png" height="221" width="202">
+<img src="https://github.com/AlbertHambardzumyan/visualization-and-comparison-of-sorting-algorithms/blob/master/doc/first-three-done.png" height="460" width="620">
